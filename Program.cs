@@ -1,2 +1,12 @@
-Console.WriteLine("Hello World!");
-Console.WriteLine("The current time is " + DateTime.Now);
+﻿using System;
+
+namespace c_
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
